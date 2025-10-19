@@ -4,8 +4,9 @@
 ---
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyaGQ2b3FiOGFvZXV5cm5oMWRncjBoOW5obGNuMnFsOWVpdDV0MnRhMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/200.gif" alt="coding" width="400" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif" />
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=soydan7419&label=Profile%20views&color=0e75b6&style=flat" alt="soydan7419" />
